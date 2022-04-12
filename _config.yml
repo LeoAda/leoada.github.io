@@ -2,8 +2,5 @@ theme: jekyll-theme-minimal
 title: Léo Arnoult De Almeida's homepage
 description: Personal website
 github_username: leoada
-baseurl: "/en" 
-
-
 plugins :
  - jekyll-seo-tag
