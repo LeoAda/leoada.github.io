@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-layout:defaulten
+layout: defaulten
 ---
 [leoada.github.io](https://leoada.github.io)
 bjr anglais
