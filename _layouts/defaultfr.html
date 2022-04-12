@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+	<script src="https://kit.fontawesome.com/26e8e19c3d.js" crossorigin="anonymous"></script>
 	<!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -24,8 +25,10 @@
         <p>Mon site personnel avec mon cv et mes projets</p>
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">{% octicon mark-github height:16 %} Mon github</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}"><i class="fa-brands fa-github"></i>Mon github</a></p>
+		<i class="fa-brands fa-linkedin"></i>
         {% endif %}
+		<
 		
       </header>
       <section>
