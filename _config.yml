@@ -5,3 +5,4 @@ github_username: leoada
 plugins :
  - jekyll-seo-tag
  - jekyll-octicons
+ - jemoji
