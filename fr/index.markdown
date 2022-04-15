@@ -8,7 +8,7 @@ Je suis à la recherche d'une alternance au alentour de lille, en data science, 
 ***
 
 # Formation
-## Cycle ingénieur spécialité Big Data : 2020-2023
+* ## Cycle ingénieur spécialité Big Data : 2020-2023
 JUNIA ISEN (Institut Supérieur de l’Electronique et du Numérique) Lille, France - Management de l’innovation, Bases de données, Statistique, Java, Python, Data reporting (Langage R), IA, Gestion de projet, Analyse des signaux, Métaheuristique
 ## Classe Préparatoire aux Grandes Ecoles : 2018-2020 
 Filière MPSI/PSI. JUNIA ISEN, Lille, France - Mathématiques, physique, sciences industrielles, communication
