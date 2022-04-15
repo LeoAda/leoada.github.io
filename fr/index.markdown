@@ -2,23 +2,23 @@
 permalink: /fr/
 layout: defaultfr
 ---
-Léo Arnoult De Almeida, étudiant en 4 éme année à l'isen de lille. Je suis en spécialité big data où j'étudie principalement les outils de data science.
-Je suis à la recherche d'une alternance au alentour de lille, en data science, pour septembre 2022.
+Léo Arnoult De Almeida, étudiant en 4ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science.
+Je suis à la recherche d'une alternance aux alentourx de lille, en Data Science, pour septembre 2022.
 
 ***
 
 # Formation
 ## • Cycle ingénieur spécialité Big Data : 2020-2023
-JUNIA ISEN (Institut Supérieur de l’Electronique et du Numérique) Lille, France - Management de l’innovation, Bases de données, Statistique, Java, Python, Data reporting (Langage R), IA, Gestion de projet, Analyse des signaux, Métaheuristique
+**JUNIA ISEN (Institut Supérieur de l’Electronique et du Numérique) Lille, France :** Management de l’innovation, Bases de données, Statistique, Java, Python, Data reporting (Langage R), IA, Gestion de projet, Analyse des signaux, Métaheuristique
 ## • Classe Préparatoire aux Grandes Ecoles : 2018-2020 
-Filière MPSI/PSI. JUNIA ISEN, Lille, France - Mathématiques, physique, sciences industrielles, communication
+**Filière MPSI/PSI. JUNIA ISEN, Lille, France :** Mathématiques, physique, sciences industrielles, communication
 ## • PSC1 (formation premiers secours) : 2016
 
 # Experience
 ## Stagiaire en data mining : Mai 2022 - Juillet 2022
-INFLYTER, Londres, Royaume-Uni : Analyse et extraction de donnée, optimisation des échanges de données entre différentes bases
+**INFLYTER, Londres, Royaume-Uni :** Analyse et extraction de donnée, optimisation des échanges de données entre différentes bases
 ## Responsable R&D/veille technologique : Février 2022 - Aujourd’hui
-Time to recycle [@timetorecycl3](https://www.instagram.com/timetorecycl3/ ), Lille: Préparation technique du projet, présentation dans des appels à projets
+**Time to recycle [@timetorecycl3](https://www.instagram.com/timetorecycl3/ ), Lille:** Préparation technique du projet, pitchs dans des appels à projets
 ## Professeur particulier : 2020 - Aujourd’hui
 LE SOUTIEN SCOLAIRE POUR TOUS, Boulogne sur mer: Informatique, mathématiques, physique-chimie
 ## Assistant informatique : 2019 (1,5 mois)
@@ -35,7 +35,7 @@ Création et maintenance du site Wp, SEO
 Etat des lieux de la recherche sur l’analyse de données fonctionnelles, Evaluation de la faisabilité du projet, étude des modèles de machine learning applicable à la FDA.
 Application des modèles de machine learning sur les différentes données (scikit, tensorflow, keras) avec optimisation des hyperparametres.
 ## Introduction au machine learning pour la musique : 2022
-Utilisation du transfert learning appliqué à la musique : detection des instuments dans une musique (YAMnet), séparation de musique (Spleeter)
+Utilisation du transfert learning appliqué à la musique : détection des instuments dans une musique (YAMnet), séparation de musique (Spleeter)
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Met-courses-project-yamnet)
 ## Atome pour le climat atomepourleclimat.fr : 2021 - 2022
 Création d’un site à l’aide de Next.js, Rédaction d’articles scientifiques pour le grand public sur les enjeux énergétiques.
