@@ -49,6 +49,8 @@ Création d’un utilitaire pour les étudiants en PWA (web et téléphone), ave
 ***
 
 # Autres projets
+## • Non-fungible Nishikigoi
+[{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/non-fungible-nishikigoi)
 ## • Simon PIC18
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Simon_PIC18_course_project)
 ## • Gyroscope guitare RF
