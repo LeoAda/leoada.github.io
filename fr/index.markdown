@@ -26,7 +26,7 @@ Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science
 ## • Professeur particulier : 2020 - Aujourd’hui
 **LE SOUTIEN SCOLAIRE POUR TOUS, Boulogne sur mer :** Informatique, mathématiques, physique-chimie
 ## • Assistant informatique : 2019 (1,5 mois)
-**CONEGAN SAS, Wimille :** Création d’étiquettes pour la production (ERP agro-alimentaire)
+**CONEGAN SAS, Wimille :** Automatisation de la création d’étiquettes pour la production (ERP agro-alimentaire)
 ## • Opérateur : 2019 (2 semaines)
 **CONEGAN SAS, Wimille:** Expérience en processus de fabrication, production à la chaine et travail en équipe
 ## • Stagiaire : 2015 - 2016 (4 fois 1 semaine)
@@ -40,7 +40,7 @@ Création et maintenance du site Wordpress, SEO
 
 ## • Identification de cellule cancéreuse avec la FDA  : 2021 - 2022
 Etat des lieux de la recherche sur l’analyse de données fonctionnelles, Evaluation de la faisabilité du projet, étude des modèles de machine learning applicable à la FDA.
-Application des modèles de machine learning sur les différentes données (scikit, tensorflow, keras) avec optimisation des hyperparametres.
+Application des modèles de machine learning sur les différentes données (scikit, tensorflow, keras), optimisation des hyperparamètres.
 ## • Introduction au machine learning pour la musique : 2022
 Utilisation du transfert learning appliqué à la musique : détection des instuments dans une musique (YAMnet), séparation de musique (Spleeter)
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Met-courses-project-yamnet)
@@ -53,11 +53,16 @@ Création d’un utilitaire pour les étudiants en PWA (web et téléphone), ave
 
 ***
 
-## • Non-fungible Nishikigoi
+## • Non-fungible Nishikigoi (wip)
+Génération de svg aléatoire de carpe koi pour un essai d'implementation de smart contract avec la blockchain ethereum
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/non-fungible-nishikigoi)
 ## • Simon PIC18
+Projet de cours, réalisation d'un jeu simon avec un PIC18.
+PCB avec soudure SMT et programmation en langage assembleur.
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Simon_PIC18_course_project)
 ## • Gyroscope guitare RF
+Projet en option musique et technologie, creation d'un gyroscope sans fil pour effet de guitare.
+Utilisation d'arduino pour l'emeteur et le recepteur, utilisation de Pure Data pour les effets et l'audio.
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/RF_gyroscope_guitare)
 
 # Loisir
