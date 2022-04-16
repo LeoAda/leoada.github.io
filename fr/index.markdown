@@ -5,18 +5,20 @@ layout: defaultfr
 Léo Arnoult De Almeida, étudiant en 4ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science.
 Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science, pour septembre 2022.
 
+# Formation
+
 ***
 
-# Formation
 ## • Cycle ingénieur spécialité Big Data : 2020-2023
 **JUNIA ISEN (Institut Supérieur de l’Electronique et du Numérique) Lille, France :** Management de l’innovation, Bases de données, Statistique, Java, Python, Data reporting (Langage R), IA, Gestion de projet, Analyse des signaux, Métaheuristique
 ## • Classe Préparatoire aux Grandes Ecoles : 2018-2020 
 **Filière MPSI/PSI. JUNIA ISEN, Lille, France :** Mathématiques, physique, sciences industrielles, communication
 ## • PSC1 (formation premiers secours) : 2016
 
+# Experience
+
 ***
 
-# Experience
 ## • Stagiaire en data mining : Mai 2022 - Juillet 2022
 **INFLYTER, Londres, Royaume-Uni :** Analyse et extraction de donnée, optimisation des échanges de données entre différentes bases
 ## • Responsable R&D/veille technologique : Février 2022 - Aujourd’hui
@@ -32,9 +34,10 @@ SOCIETE BOULONNAISE ELECTRONIQUE, Boulogne; AIRCAD ENGINEERING COMPANY, Paris/Ro
 ## • Webmaster passage-melete.com: 2015 - Aujourd’hui
 Création et maintenance du site Wordpress, SEO
 
+# Projet
+
 ***
 
-# Projet
 ## • Identification de cellule cancéreuse avec la FDA  : 2021 - 2022
 Etat des lieux de la recherche sur l’analyse de données fonctionnelles, Evaluation de la faisabilité du projet, étude des modèles de machine learning applicable à la FDA.
 Application des modèles de machine learning sur les différentes données (scikit, tensorflow, keras) avec optimisation des hyperparametres.
@@ -46,9 +49,10 @@ Création d’un site à l’aide de Next.js, Rédaction d’articles scientifiq
 ## • Junia Pocket : 2021
 Création d’un utilitaire pour les étudiants en PWA (web et téléphone), avec une équipe de 5 personnes. Poste de développeur full stack avec les outils : Next.js, une api REST, une base de données Mongodb.
 
+# Autres projets
+
 ***
 
-# Autres projets
 ## • Non-fungible Nishikigoi
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/non-fungible-nishikigoi)
 ## • Simon PIC18
@@ -56,6 +60,6 @@ Création d’un utilitaire pour les étudiants en PWA (web et téléphone), ave
 ## • Gyroscope guitare RF
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/RF_gyroscope_guitare)
 
-***
-
 # Loisir
+
+***
