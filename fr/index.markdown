@@ -41,7 +41,7 @@ Création et maintenance du site Wordpress, SEO
 ## • Identification de cellule cancéreuse avec la FDA  : 2021 - 2022
 Etat des lieux de la recherche sur l’analyse de données fonctionnelles, Evaluation de la faisabilité du projet, étude des modèles de machine learning applicable à la FDA.
 Application des modèles de machine learning sur les différentes données (scikit, tensorflow, keras), optimisation des hyperparamètres.
-## • Introduction au machine learning pour la musique : 2022
+## • Introduction au deep learning pour la musique : 2022
 Utilisation du transfert learning appliqué à la musique : détection des instuments dans une musique (YAMnet), séparation de musique (Spleeter)
 
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Met-courses-project-yamnet)
