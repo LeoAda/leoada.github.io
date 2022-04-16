@@ -43,6 +43,7 @@ Etat des lieux de la recherche sur l’analyse de données fonctionnelles, Evalu
 Application des modèles de machine learning sur les différentes données (scikit, tensorflow, keras), optimisation des hyperparamètres.
 ## • Introduction au machine learning pour la musique : 2022
 Utilisation du transfert learning appliqué à la musique : détection des instuments dans une musique (YAMnet), séparation de musique (Spleeter)
+
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Met-courses-project-yamnet)
 ## • Atome pour le climat atomepourleclimat.fr : 2021 - 2022
 Création d’un site à l’aide de Next.js, Rédaction d’articles scientifiques pour le grand public sur les enjeux énergétiques.
@@ -55,14 +56,17 @@ Création d’un utilitaire pour les étudiants en PWA (web et téléphone), ave
 
 ## • Non-fungible Nishikigoi (wip)
 Génération de svg aléatoire de carpe koi pour un essai d'implementation de smart contract avec la blockchain ethereum
+
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/non-fungible-nishikigoi)
 ## • Simon PIC18
 Projet de cours, réalisation d'un jeu simon avec un PIC18.
 PCB avec soudure SMT et programmation en langage assembleur.
+
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/Simon_PIC18_course_project)
 ## • Gyroscope guitare RF
 Projet en option musique et technologie, creation d'un gyroscope sans fil pour effet de guitare.
 Utilisation d'arduino pour l'emeteur et le recepteur, utilisation de Pure Data pour les effets et l'audio.
+
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/RF_gyroscope_guitare)
 
 # Loisir
