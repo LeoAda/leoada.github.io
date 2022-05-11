@@ -19,8 +19,8 @@ Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science
 
 ***
 
-## • Stagiaire en data mining : Mai 2022 - Juillet 2022
-**INFLYTER, Londres, Royaume-Uni :** Analyse et extraction de donnée, optimisation des échanges de données entre différentes bases
+## • Stagiaire en data mining : Mai 2022 - Juillet 2022 (en cours)
+**INFLYTER, Londres, Royaume-Uni :** Nomenclature des événements UI, mise en place du conversion funnel, choix d'une Customer Data Platform (CDP), ...
 ## • Responsable R&D/veille technologique : Février 2022 - Aujourd’hui
 **Time to recycle [@timetorecycl3](https://www.instagram.com/timetorecycl3/ ), Lille :** Préparation technique du projet, pitchs dans des appels à projets
 ## • Professeur particulier : 2020 - Aujourd’hui
