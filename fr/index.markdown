@@ -7,9 +7,13 @@ Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science
 
 
 [expand]
+
+
 Long content here
 and here
 ...
+
+
 [/expand]
 
 
