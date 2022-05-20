@@ -1,19 +1,9 @@
-<style>
-pre {
-    white-space: pre-wrap;       /* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
-}
-</style>
-
 <script>
     
     var elements = document.querySelectorAll('p');
     Array.prototype.forEach.call(elements, function(el, i){
         if(el.innerHTML=='[expand]') {
-            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<details><summary>Click to expand</summary><pre>').replace('<p>[/expand]</p>','</pre></details>');
+            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<details><summary>Click to expand</summary><pre style="white-space: pre-wrap">').replace('<p>[/expand]</p>','</pre></details>');
             el.parentNode.innerHTML = parentcontent;
         }
     });
