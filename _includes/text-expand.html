@@ -3,7 +3,7 @@
     var elements = document.querySelectorAll('p');
     Array.prototype.forEach.call(elements, function(el, i){
         if(el.innerHTML=='[expand]') {
-            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<details><summary style="cursor: pointer;">Click to expand</summary>').replace('<p>[/expand]</p>','</details>');
+            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<details><summary style="cursor: pointer;">Plus d\'information</summary>').replace('<p>[/expand]</p>','</details>');
             el.parentNode.innerHTML = parentcontent;
         }
     });
