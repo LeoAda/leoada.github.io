@@ -10,7 +10,7 @@
 	
 	var elementsd = document.querySelectorAll('details');
 	Array.prototype.forEach.call(elementsd, function(el, i){
-        var cDiv = pDiv.children;
+        var cDiv = el.children;
 		for (var i = 0; i < cDiv.length; i++) {
 				cDiv[i].style.marginBottom = '0px'; 
 			}
