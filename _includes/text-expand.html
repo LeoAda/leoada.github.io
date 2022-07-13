@@ -1,7 +1,7 @@
 <script>
     
     const section = document.getElementsByTagName("section")[0];
-	section.innerHTML = section.innerHTML.replace('<p>[expand]</p>','<details><summary style="cursor: pointer;">Plus d\'information</summary>').replace('<p>[/expand]</p>','</details>');
+	section.innerHTML = section.innerHTML.replaceAll('<p>[expand]</p>','<details><summary style="cursor: pointer;">Plus d\'information</summary>').replaceAll('<p>[/expand]</p>','</details>');
 	
 	var elementsd = document.querySelectorAll('details');
 	Array.prototype.forEach.call(elementsd, function(el, i){
