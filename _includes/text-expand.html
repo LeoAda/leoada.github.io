@@ -3,11 +3,13 @@
     var elements = document.querySelectorAll('p');
     Array.prototype.forEach.call(elements, function(el, i){
         if(el.innerHTML=='[expand]') {
+			console.log(el);
+			console.log(el.parentNode);
             var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<details><summary style="cursor: pointer;">Plus d\'information</summary>').replace('<p>[/expand]</p>','</details>');
             el.parentNode.innerHTML = parentcontent;
         }
     });
-	/*
+
 	var elementsd = document.querySelectorAll('details');
 	Array.prototype.forEach.call(elementsd, function(el, i){
         var cDiv = el.children;
@@ -16,5 +18,4 @@
 				cDiv[i].style.fontStyle = 'italic'; 			
 			}
     });
-	*/
 </script>
