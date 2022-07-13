@@ -2,7 +2,7 @@
 permalink: /fr/
 layout: defaultfr
 ---
-Léo Arnoult De Almeida, étudiant en 4ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science.
+Léo Arnoult De Almeida, étudiant en 5ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science.
 Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science, pour septembre 2022.
 
 
@@ -20,7 +20,10 @@ Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science
 
 ***
 
-## • Stagiaire en data mining : Mai 2022 - Juillet 2022 (en cours)
+## • Ingénieur data science | Contrat de professionnalisation : Septembre 2022 - Août 2022 (en cours)
+**MAXXING, Marcq-en-Barœul, France :** à venir...
+
+## • Stagiaire en data engineering : Mai 2022 - Juillet 2022 (en cours)
 **INFLYTER, Londres, Royaume-Uni :** Nomenclature des événements UI, mise en place du conversion funnel, choix et intégration d'une Customer Data Platform (CDP), ...
 
 [expand]
@@ -32,7 +35,8 @@ Détail des compétences :
 * Détermination du conversion funnel
 * Travail d'équipe en anglais
 * Choix et conversation avec plusieurs customer data platform
-* Integration de la CDP choisi (Avec mise en place d'un client PHP car non fournit par la CDP)
+* Integration de la CDP Segment sur le backend PHP (Symfony) ainsi que sur l'application android (Java)
+* Mise en place de dashboard pour l'analytics sur Mixpanel
 
 [/expand]
 
