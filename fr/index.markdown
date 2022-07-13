@@ -3,7 +3,6 @@ permalink: /fr/
 layout: defaultfr
 ---
 Léo Arnoult De Almeida, étudiant en 5ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science.
-Je suis à la recherche d'une alternance aux alentours de Lille, en Data Science, pour septembre 2022.
 
 
 # Formation
