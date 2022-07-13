@@ -19,7 +19,7 @@ Léo Arnoult De Almeida, étudiant en 5ème année à l'ISEN Lille. Je suis en s
 
 ***
 
-## • Ingénieur data science | Contrat de professionnalisation : Septembre 2022 - Août 2022 (en cours)
+## • Ingénieur data science | Contrat de professionnalisation : Septembre 2022 - Août 2023 (en cours)
 **MAXXING, Marcq-en-Barœul, France :** à venir...
 
 ## • Stagiaire en data engineering : Mai 2022 - Juillet 2022 (en cours)

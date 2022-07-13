@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Léo Arnoult De Almeida
-description: Personal website
+description: Site personnel de Léo Arnoult De Almeida
 github_username: leoada
 plugins :
  - jekyll-seo-tag

@@ -3,7 +3,7 @@
     const section = document.getElementsByTagName("section")[0];
 	section.innerHTML = section.innerHTML.replaceAll('<p>[expand]</p>','<details><summary style="cursor: pointer;">Plus d\'information</summary>').replaceAll('<p>[/expand]</p>','</details>');
 	
-	var elementsd = document.querySelectorAll('details');
+	var elementsd = document.getElementById('details');
 	Array.prototype.forEach.call(elementsd, function(el, i){
 		el.style.marginBottom = '20px';
         var cDiv = el.children;
