@@ -1,7 +1,8 @@
 <script>
     
-    var section = document.getElementsByTagName('section');
+    const section = document.getElementsByTagName("section");
 	section.innerHTML = section.innerHTML.replace('<p>[expand]</p>','<details><summary style="cursor: pointer;">Plus d\'information</summary>').replace('<p>[/expand]</p>','</details>');
+	
 	var elementsd = document.querySelectorAll('details');
 	Array.prototype.forEach.call(elementsd, function(el, i){
         var cDiv = el.children;
