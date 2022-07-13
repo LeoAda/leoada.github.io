@@ -103,11 +103,11 @@ Utilisation d'arduino pour l'emeteur et le recepteur, utilisation de Pure Data p
 
 [{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/RF_gyroscope_guitare)
 
+[/expand-category]
+
 # Loisir/Centre d'intérêt
 
 ***
-
-[/expand-category]
 
 Jeux vidéo de simulation ou en équipe. (Garry's mod, CS:GO)
 Chimie
