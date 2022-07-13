@@ -86,6 +86,8 @@ Création d’un utilitaire pour les étudiants en PWA (web et téléphone), ave
 
 ***
 
+[expand-category]
+
 ## • Non-fungible Nishikigoi (wip)
 Génération de svg aléatoire de carpe koi pour un essai d'implementation de smart contract avec la blockchain ethereum
 
@@ -104,6 +106,8 @@ Utilisation d'arduino pour l'emeteur et le recepteur, utilisation de Pure Data p
 # Loisir/Centre d'intérêt
 
 ***
+
+[/expand-category]
 
 Jeux vidéo de simulation ou en équipe. (Garry's mod, CS:GO)
 Chimie

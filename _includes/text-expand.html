@@ -2,7 +2,9 @@
     
     const section = document.getElementsByTagName("section")[0];
 	section.innerHTML = section.innerHTML.replaceAll('<p>[expand]</p>','<details class="expand"><summary style="cursor: pointer;">Plus d\'information</summary>').replaceAll('<p>[/expand]</p>','</details>');
+	section.innerHTML = section.innerHTML.replaceAll('<p>[expand-category]</p>','<details class="expand-category"><summary style="cursor: pointer;">Plus d\'information</summary>').replaceAll('<p>[/expand-category]</p>','</details>');
 	
+
 	var elementsd = document.querySelectorAll('details.expand');
 	Array.prototype.forEach.call(elementsd, function(el, i){
 		el.style.marginBottom = '20px';
@@ -12,4 +14,6 @@
 				cDiv[i].style.fontStyle = 'italic'; 			
 			}
     });
+
+	
 </script>
