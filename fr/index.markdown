@@ -72,9 +72,11 @@ Application des modèles de machine learning sur les différentes données (scik
 
 [expand]
 
-Dans le contexte d'un
+//
 
 [/expand]
+
+[{% octicon mark-github height:16 %} Github](https://github.com/LeoAda/ML-FDA-cancer-M1-project)
 
 ## • Introduction au deep learning pour la musique : 2022
 Utilisation du transfert learning appliqué à la musique : détection des instuments dans une musique (YAMnet), séparation de musique (Spleeter)
