@@ -2,7 +2,7 @@
     
     const section = document.getElementsByTagName("section")[0];
 	section.innerHTML = section.innerHTML.replaceAll('<p>[expand]</p>','<details class="expand"><summary style="cursor: pointer;">Plus d\'information</summary>').replaceAll('<p>[/expand]</p>','</details>');
-	section.innerHTML = section.innerHTML.replaceAll('<p>[expand-category]</p>','<details class="expand-category"><summary style="cursor: pointer; color:#267CB9;">Voir plus</summary>').replaceAll('<p>[/expand-category]</p>','</details>');
+	section.innerHTML = section.innerHTML.replaceAll('<p>[expand-category]</p>','<details class="expand-category"><summary style="cursor: pointer; color:#267CB9;padding-bottom:5px;">Voir plus</summary>').replaceAll('<p>[/expand-category]</p>','</details>');
 	
 
 	var elementsd = document.querySelectorAll('details.expand');
