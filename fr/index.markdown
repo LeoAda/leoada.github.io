@@ -2,7 +2,7 @@
 permalink: /fr/
 layout: defaultfr
 ---
-Léo Arnoult De Almeida, étudiant en 5ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science.
+Léo Arnoult De Almeida, étudiant en 5ème année à l'ISEN Lille. Je suis en spécialité Big Data où j'étudie principalement les outils de Data Science et Big Data.
 
 
 # Formation
@@ -29,7 +29,7 @@ Léo Arnoult De Almeida, étudiant en 5ème année à l'ISEN Lille. Je suis en s
 
 Inflyter est une marketplace de produit duty free proposant des services de click and collect et de la collecte par des casiers dans les aeroports.
 Le but de mon stage a été de mettre la nouvelle plateforme data.
-Détail des compétences :
+Détail des tâches :
 * Nomenclature des évenements des interfaces utilisateurs
 * Détermination du conversion funnel
 * Travail d'équipe en anglais
@@ -49,6 +49,9 @@ Détail des compétences :
 Cours de soutien à un public varié de CM2 en informatique à adulte ayant repris des études d'ingénieur.
 
 [/expand]
+
+## • Freelance : 2022 - Aujourd’hui
+**Particulier, France :** Réalisation d'une extension chrome d'extraction et d'injection de donnée sur le dashboard d'un ERP. Réalisation d'une application android permettant à partir d'un fichier d'avoir de façon ergonomique un arbre de décision.
 
 ## • Assistant informatique : 2019 (1,5 mois)
 **CONEGAN SAS, Wimille :** Automatisation de la création d’étiquettes pour la production (ERP agro-alimentaire)
