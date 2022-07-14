@@ -2,7 +2,7 @@
     
     const section = document.getElementsByTagName("section")[0];
 	section.innerHTML = section.innerHTML.replaceAll('<p>[expand]</p>','<details class="expand"><summary style="cursor: pointer;">Plus d\'information</summary>').replaceAll('<p>[/expand]</p>','</details>');
-	section.innerHTML = section.innerHTML.replaceAll('<p>[expand-category]</p>','<details class="expand-category"><summary style="cursor: pointer;">Voir plus</summary>').replaceAll('<p>[/expand-category]</p>','</details>');
+	section.innerHTML = section.innerHTML.replaceAll('<p>[expand-category]</p>','<details class="expand-category"><summary style="cursor: pointer; color:#267CB9;">Voir plus</summary>').replaceAll('<p>[/expand-category]</p>','</details>');
 	
 
 	var elementsd = document.querySelectorAll('details.expand');
@@ -18,8 +18,7 @@
 	var elementsd = document.querySelectorAll('details.expand-category');
 	Array.prototype.forEach.call(elementsd, function(el, i){
 		el.style.marginBottom = '20px';
-		el.style.paddingBottom = '15px'; 
-		el.style.color = '#267CB9';
+		el.style.paddingBottom = '15px';
         /*
 		var cDiv = el.children;
 		for (var i = 0; i < cDiv.length; i++) {
