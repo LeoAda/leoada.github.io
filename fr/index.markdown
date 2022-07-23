@@ -34,7 +34,7 @@ Détail des tâches :
 * Détermination du conversion funnel
 * Travail d'équipe en anglais
 * Choix et conversation avec plusieurs customer data platform
-* Integration de la CDP Segment sur le backend PHP (Symfony) ainsi que sur l'application android (Java)
+* Integration de la CDP Segment sur le backend et le frontend PHP (Symfony) ainsi que sur l'application android (Java)
 * Mise en place de dashboard pour l'analytics sur Mixpanel
 
 [/expand]
