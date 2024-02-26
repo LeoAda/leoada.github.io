@@ -6,7 +6,7 @@ subtitle: Data Science/AI Engineer, passionate by AI, CS, and much more.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: full_pp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
