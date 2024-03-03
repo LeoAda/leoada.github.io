@@ -3,7 +3,7 @@
   "basics": {
     "name": "Léo Arnoult De Almeida",
     "label": "Data Science/AI Engineer",
-    "image": "",
+    "image": "crop_pp.jpg",
     "email": "leo@arnoultdealmeida.fr",
     "phone": "+33 7 81 43 60 35",
     "url": "https://leoada.github.io",
@@ -28,162 +28,220 @@
   },
   "work": [
     {
+      "name": "Young to older people",
+      "location": "France",
+      "description": "With 'Le soutien scolaire pour tous' and 'Orion'",
+      "position": "Tutor",
+      "startDate": "2020-03-01",
+      "endDate": "2022-04-30",
+      "summary": "I was a tutor for a wide range of people, from young at school to adult in professional reconversion. I made courses in mathematics, physics, chemistry (high school to higher education level), also basis of computer science.",
+      "highlights": [
+        "Adaptation to the level of the audiance",
+        "Pedagogy",
+        "Explaining complex concepts in a simple way"
+      ]
+    },
+    {
       "name": "Inflyter",
       "location": "London, UK",
-      "description": "",
+      "description": "Inflyter is platform of click-and-collect for duty-free products in airports. It also provides smart-locker in the same purpose.",
       "position": "Intern Data Engineer",
       "url": "https://inflyter.com/",
       "startDate": "2022-05-01",
       "endDate": "2022-07-31",
-      "summary": "",
+      "summary": "I was in charge of the implementation of a Cutomer Data Platform (CDP) on all the platform of Inflyter.",
       "highlights": [
-        ""
-      ]
-    },
-    {
-      "name": "Young to older people",
-      "location": "France",
-      "description": "",
-      "position": "Tutor",
-      "startDate": "2020-03-01",
-      "endDate": "2022-04-31",
-      "summary": "",
-      "highlights": [
-        ""
+        "Event naming (object-action framework)",
+        "Direct engagement and choice of the CDP",
+        "Implementation of the CDP in the app and the website (Backend : Symfony PHP, Front : JS/PHP, Android : Java)",
+        "Data Visualization with Mixpanel",
+        "Scrum methodology"
       ]
     },
     {
       "name": "Maxxing",
       "location": "Lille, France",
-      "description": "",
+      "description": "Maxxing is a SaaS loyality engine for retailers. It provides a solution to create a loyalty program and to manage it. Clients are well known retailers.",
       "position": "Data science/AI Engineer (Apprentice)",
-      "url": "",
+      "url": "https://maxxing.com/en/",
       "startDate": "2022-09-01",
       "endDate": "2023-08-31",
-      "summary": "",
+      "summary": "During my apprenticeship, I made, from beginning to end, a automatic customer segmentation tool. I also work on the implementation of a dashboard.",
       "highlights": [
-        ""
+        "Data exploration of usefull data",
+        "Scientific literature review on customer segmentation and segmentation algorithms",
+        "Implementation of a customer segmentation tool (Python, Scikit-learn, Pandas, PyArrow, Numpy, Docker, Azure)",
+        "Development of tailored dashboards to ensure results are clear and actionable for all stakeholders (Chart.js, Angular)"
       ]
     },
     {
       "name": "Maxxing",
       "location": "Lille, France",
-      "description": "",
+      "description": "Maxxing is a SaaS loyality engine for retailers. It provides a solution to create a loyalty program and to manage it. Clients are well known retailers.",
       "position": "Data science/AI Engineer",
-      "url": "",
+      "url": "https://maxxing.com/en/",
       "startDate": "2023-09-01",
-      "summary": "",
+      "summary": "In my current position, I am in charge of the creation of the data platform, and some AI projects.",
       "highlights": [
-        ""
+        "Summarization of data with Transformer Models",
+        "Building data platform (with a data lakehouse) on Azure",
+        "Technology intelligence for practical application"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Junia ISEN (Graduate school of Science and Engineering)",
+      "location": "Lille, France",
+      "url": "https://www.junia.com/en/",
+      "area": "Big Data",
+      "studyType": "Diplôme d'Ingénieur",
+      "startDate": "2019-09-01",
+      "endDate": "2023-08-31",
+      "courses": ["Management of Innovation", "Statistics", "Machine Learning", "Data Engineering", "Data Visualization", "Cloud Computing", "Electronics", "Mathematics", "Physics", "Humanities"]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "B2 First",
+      "date": "2021-06-01",
+      "issuer": "Cambridge English",
+      "url": "https://www.cambridgeenglish.org/",
+      "icon": "fa-solid fa-language"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Data Science",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Pandas",
+        "Numpy",
+        "Scikit-learn",
+        "Tensorflow"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Javascript/Typescript",
+        "Flask",
+        "Node.js",
+        "Angular",
+        "Next.js",
+        "Chart.js",
+        "PHP"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PowerBI",
+        "Looker Studio",
+        "Matplotlib",
+        "Seaborn",
+        "Chart.js"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Azure (Event Hub, Function, Kusto, Data Factory)",
+        "GCP (BigQuery, Function, Firestore)"
+      ]
+    },
+    {
+      "name": "Data",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Data Streaming Architecture",
+        "PySpark",
+        "SQL",
+        "MongoDB",
+        "Microsoft Fabric"
+      ]
+    },
+    {
+      "name": "Electronics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Arduino",
+        "Raspberry Pi",
+        "Assembly",
+        "SMD Soldering"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Customer Segmentation",
+        "Transformer Models",
+        "Prompt Engineering"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "B2",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Chemistry",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Chemical process",
+        "In·Organic chemistry"
+      ]
+    },
+    {
+      "name": "Ecology",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Green-IT",
+        "Sustainability",
+        "Electrical power engineering",
+        "Materials science"
+      ]
+    },
+    {
+      "name": "Various Interests",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Mathematics",
+        "History",
+        "Philosophy",
+        "Psychology"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "WIP",
+      "summary": "To be continued...",
+      "highlights": ["Data"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": "https://leoada.github.io"
     }
   ]
 }
