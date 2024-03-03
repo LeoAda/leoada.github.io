@@ -267,7 +267,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     # category: "/blog/category/:name/"
 
-display_tags: ["code", "ml", "big data", "data engineering","data viz","other"] # these tags will be displayed on the front page of your blog
+display_tags: ["code", "ml", "data engineering","data viz","hardware","other"] # these tags will be displayed on the front page of your blog
 display_categories: # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
