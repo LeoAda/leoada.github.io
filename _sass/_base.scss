@@ -127,22 +127,6 @@ blockquote {
   }
 }
 
-// Checklist
-
-ul.task-list {
-  list-style-type: none; /* Remove bullets from all levels */
-}
-
-ul.task-list > li ul {
-  /* Nested lists within .task-list */
-  padding-inline-start: 1.5rem;
-}
-
-ul.task-list input[type="checkbox"] {
-  margin: 0.275rem 0.5rem 0.5rem -1rem;
-  vertical-align: middle;
-}
-
 // Math
 
 .equation {
@@ -164,17 +148,22 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
-  .card-img {
+  img {
     width: 100%;
-    padding-top: 1.25rem;
   }
 
   .card-title {
     color: var(--global-text-color);
   }
 
-  .card-body {
-    padding: 1.25rem 1.25rem 0 1.25rem;
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
   }
 }
 
@@ -437,7 +426,6 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
-    text-align: center;
   }
 
   a {
@@ -455,10 +443,6 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
-
-  .container {
-    text-align: center;
-  }
 }
 
 // CV
@@ -623,6 +607,16 @@ footer.sticky-bottom {
     }
   }
 
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+  }
+
   .grid-sizer,
   .grid-item {
     width: 250px;
@@ -690,8 +684,8 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
-          width: 100%;
+          padding-left: 1rem;
+          padding-right: 1rem;
 
           a {
             color: white;
@@ -754,9 +748,6 @@ footer.sticky-bottom {
             border-color: var(--global-theme-color);
           }
         }
-        a.award.btn {
-          border-color: var(--global-highlight-color);
-        }
       }
 
       .badges {
@@ -813,12 +804,6 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
-    }
-    div.award.hidden {
-      border: dashed 1px var(--global-bg-color);
-    }
-    div.award.hidden.open {
-      border-color: var(--global-highlight-color);
     }
   }
 }
@@ -1072,6 +1057,10 @@ nav[data-toggle="toc"] {
     }
   }
 
+  .card-item {
+    margin-bottom: 10px;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;
@@ -1107,16 +1096,4 @@ swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
   --swiper-pagination-bullet-inactive-color: var(--global-text-color);
-}
-
-.ps-root {
-  .ps-algorithm {
-    margin: 0.8em 0;
-    border-top: 3px solid var(--global-text-color);
-    border-bottom: 2px solid var(--global-text-color);
-  }
-
-  .ps-algorithm.with-caption > .ps-line:first-child {
-    border-bottom: 2px solid var(--global-text-color);
-  }
 }

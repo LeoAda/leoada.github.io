@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - LeoAda/leoada.github.io
+  - LeoAda/ML-FDA-cancer-M1-project
+  - LeoAda/weather-hybrid-work
+  - LeoAda/RF_gyroscope_guitare
+  - LeoAda/Simon_PIC18_course_project
