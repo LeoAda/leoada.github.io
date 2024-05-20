@@ -80,9 +80,9 @@
       "position": "Data science/AI Engineer",
       "url": "https://maxxing.com/en/",
       "startDate": "2023-09-01",
-      "summary": "In my current position, I am in charge of the creation of the data platform, and some AI projects.",
+      "summary": "In my current position, I am in charge of the creation of the data platform, and AI projects.",
       "highlights": [
-        "Summarization of data with Transformer Models",
+        "Summarization of data with LLM",
         "Building data fabric on Azure",
         "Technology intelligence for practical application"
       ]
