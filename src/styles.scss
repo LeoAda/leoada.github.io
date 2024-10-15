@@ -1,8 +1,27 @@
+@use "@angular/material" as mat;
+@use "./assets/styles/hopper-theme.scss";
+@use "./app/navbar/_navbar-theme.component.scss" as navbar;
+@use "./app/_app-theme.component.scss" as app;
+@import "./assets/styles/fonts.scss";
+@include mat.core();
+$theme: hopper-theme.$dark-theme;
+
+html {
+  @include mat.all-component-themes($theme);
+  @include navbar.theme($theme);
+  @include app.theme($theme);
+}
+
 html,
 body {
   height: 100%;
 }
 body {
   margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
+  font-family: "Luciole", sans-serif;
+  background-color: mat.get-theme-color($theme, surface);
+}
+
+p {
+  margin: 0 auto;
 }

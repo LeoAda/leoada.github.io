@@ -12,6 +12,8 @@ import {
 import { routes } from './app.routes';
 import { provideClientHydration, Title } from '@angular/platform-browser';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { provideMarkdown } from 'ngx-markdown';
+import { HttpClient, provideHttpClient } from '@angular/common/http';
 @Injectable({ providedIn: 'root' })
 export class PageTitleStrategy extends TitleStrategy {
   constructor(private readonly title: Title) {
@@ -20,7 +22,7 @@ export class PageTitleStrategy extends TitleStrategy {
   override updateTitle(routerState: RouterStateSnapshot) {
     const title = this.buildTitle(routerState);
     if (title !== undefined) {
-      this.title.setTitle(`Leo A.D.A | ${title}`);
+      this.title.setTitle(`Léo A.D.A | ${title}`);
     }
   }
 }
@@ -31,5 +33,7 @@ export const appConfig: ApplicationConfig = {
     provideRouter(routes),
     provideClientHydration(),
     provideAnimationsAsync(),
+    provideHttpClient(),
+    provideMarkdown({ loader: HttpClient }),
   ],
 };

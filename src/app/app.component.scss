@@ -1,7 +1,8 @@
 .container {
   width: 768px;
+  border-radius: 16px;
   margin: 0 auto;
-  background-color: rgb(255, 0, 0);
+  box-shadow: 0px 8px 0px #6f7073;
 }
 
 @media (max-width: 768px) {

@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from './navbar/navbar.component';
-
 @Component({
   selector: 'root',
   standalone: true,
@@ -10,5 +9,4 @@ import { NavbarComponent } from './navbar/navbar.component';
   styleUrl: './app.component.scss',
 })
 export class AppComponent {
-  title = '';
 }

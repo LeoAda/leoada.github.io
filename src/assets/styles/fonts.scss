@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "Luciole";
+  src: url("../fonts/Luciole-Regular.woff2") format("woff2"),
+    url("../fonts/Luciole-Regular.woff") format("woff"),
+    url("../fonts/Luciole-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url("../fonts/Luciole-Bold.woff2") format("woff2"),
+    url("../fonts/Luciole-Bold.woff") format("woff"),
+    url("../fonts/Luciole-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url("../fonts/Luciole-Italic.woff2") format("woff2"),
+    url("../fonts/Luciole-Italic.woff") format("woff"),
+    url("../fonts/Luciole-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Luciole";
+  src: url("../fonts/Luciole-BoldItalic.woff2") format("woff2"),
+    url("../fonts/Luciole-BoldItalic.woff") format("woff"),
+    url("../fonts/Luciole-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}

@@ -31,7 +31,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "@angular/material/prebuilt-themes/cyan-orange.css",
+              "src/assets/styles/hopper-theme.scss",
               "node_modules/katex/dist/katex.min.css"
             ],
             "scripts": [
@@ -40,12 +40,7 @@
               "node_modules/emoji-toolkit/lib/js/joypixels.min.js",
               "node_modules/mermaid/dist/mermaid.min.js",
               "node_modules/clipboard/dist/clipboard.min.js"
-            ],
-            "server": "src/main.server.ts",
-            "prerender": true,
-            "ssr": {
-              "entry": "server.ts"
-            }
+            ]
           },
           "configurations": {
             "production": {
@@ -100,7 +95,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "@angular/material/prebuilt-themes/cyan-orange.css",
+              "src/assets/styles/hopper-theme.scss",
               "node_modules/katex/dist/katex.min.css"
             ],
             "scripts": [
