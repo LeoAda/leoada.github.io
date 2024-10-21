@@ -27,6 +27,16 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets/pages",
+                "output": "pages"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets/icons",
+                "output": "icons"
               }
             ],
             "styles": [
@@ -91,6 +101,16 @@
               {
                 "glob": "**/*",
                 "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets/pages",
+                "output": "pages"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets/icons",
+                "output": "icons"
               }
             ],
             "styles": [

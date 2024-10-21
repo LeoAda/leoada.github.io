@@ -1,1 +1,3 @@
-<p>blog works!</p>
+<div class="main grid-container">
+    <post-card *ngFor="let blogPost of blogPosts" [post]="blogPost" [route]="'blog'"></post-card>
+</div>

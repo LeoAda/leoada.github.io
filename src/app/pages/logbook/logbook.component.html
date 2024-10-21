@@ -1,1 +1,3 @@
-<p>logbook works!</p>
+<div class="main grid-container">
+    <post-card *ngFor="let logbookPost of logbookPosts" [post]="logbookPost" [route]="'logbook'"></post-card>
+</div>

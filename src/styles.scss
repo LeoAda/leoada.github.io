@@ -1,6 +1,6 @@
 @use "@angular/material" as mat;
 @use "./assets/styles/hopper-theme.scss";
-@use "./app/navbar/_navbar-theme.component.scss" as navbar;
+@use "./app/components/navbar/_navbar-theme.component.scss" as navbar;
 @use "./app/_app-theme.component.scss" as app;
 @import "./assets/styles/fonts.scss";
 @include mat.core();
