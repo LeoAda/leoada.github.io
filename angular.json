@@ -41,7 +41,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/assets/styles/hopper-theme.scss",
+              "src/assets/styles/theme.scss",
               "node_modules/katex/dist/katex.min.css"
             ],
             "scripts": [
@@ -115,7 +115,7 @@
             ],
             "styles": [
               "src/styles.scss",
-              "src/assets/styles/hopper-theme.scss",
+              "src/assets/styles/theme.scss",
               "node_modules/katex/dist/katex.min.css"
             ],
             "scripts": [

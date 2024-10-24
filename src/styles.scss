@@ -1,27 +1,23 @@
-@use "@angular/material" as mat;
-@use "./assets/styles/hopper-theme.scss";
-@use "./app/components/navbar/_navbar-theme.component.scss" as navbar;
-@use "./app/_app-theme.component.scss" as app;
+@use "sass:map";
+@use "./assets/styles/theme.scss";
 @import "./assets/styles/fonts.scss";
-@include mat.core();
-$theme: hopper-theme.$dark-theme;
-
-html {
-  @include mat.all-component-themes($theme);
-  @include navbar.theme($theme);
-  @include app.theme($theme);
-}
 
 html,
 body {
+  margin: 0;
+  padding: 0;
   height: 100%;
 }
 body {
-  margin: 0;
   font-family: "Luciole", sans-serif;
-  background-color: mat.get-theme-color($theme, surface);
+  background-color: map.get(theme.$theme, surface);
 }
 
 p {
   margin: 0 auto;
+}
+
+a {
+  color: map.get(theme.$theme, primary);
+  text-decoration: none;
 }

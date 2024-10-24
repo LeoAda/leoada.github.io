@@ -1,8 +1,12 @@
+@use "sass:map";
+@use "../assets/styles/theme.scss";
+
 .container {
   width: 768px;
-  border-radius: 16px;
+  // border-radius: 16px;
+  // border: solid;
+  // border-color: map.get(theme.$theme, outline);
   margin: 0 auto;
-  box-shadow: 0px 8px 0px #6f7073;
 }
 
 @media (max-width: 768px) {

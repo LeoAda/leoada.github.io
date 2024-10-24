@@ -1,7 +1,27 @@
+@use "sass:map";
+@use "../../../assets/styles/theme.scss";
+
 .card-container {
   border-radius: 16px;
   border: solid;
-  border-color: beige;
+  border-color: map.get(theme.$theme, outline);
   padding: 10px;
   height: 100px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.card-title {
+  color: map.get(theme.$theme, onSurface);
+  font-size: 20px;
+}
+.card-subtitle {
+  color: map.get(theme.$theme, onSurfaceVariant);
+  font-size: 16px;
+}
+.card-date {
+  color: map.get(theme.$theme, onSurfaceVariant);
+  font-size: 16px;
 }

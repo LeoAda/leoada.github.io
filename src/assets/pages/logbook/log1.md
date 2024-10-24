@@ -1,1 +1,1 @@
-# Blog 1
+# Inventory and planification
