@@ -2,25 +2,26 @@
 @use "../../../assets/styles/theme.scss";
 
 .card-container {
-  border-radius: 16px;
-  border: solid;
-  border-color: map.get(theme.$theme, outline);
-  padding: 10px;
-  height: 100px;
-  cursor: pointer;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  height: 100px;
+  padding: 10px;
+  border: solid;
+  border-color: map.get(theme.$theme, outline);
+  border-radius: 16px;
+  cursor: pointer;
 }
 
 .card-title {
   color: map.get(theme.$theme, onSurface);
   font-size: 20px;
 }
-.card-subtitle {
-  color: map.get(theme.$theme, onSurfaceVariant);
-  font-size: 16px;
+
+.card-bottom {
+  margin-top: auto;
 }
+
+.card-subtitle,
 .card-date {
   color: map.get(theme.$theme, onSurfaceVariant);
   font-size: 16px;

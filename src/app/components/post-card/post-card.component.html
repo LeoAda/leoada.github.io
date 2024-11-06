@@ -1,5 +1,7 @@
 <div class="card-container" (click)="navigateTo($event,route,post.id)">
     <div class="card-title">{{post.title}}</div>
-    <div class="card-subtitle">{{post!.subtitle}}</div>
-    <div class="card-date">Date : {{post.date | date:'dd/MM/yyyy'}}</div>
+    <div class="card-bottom">
+        <div class="card-subtitle">{{post.subtitle}}</div>
+        <div class="card-date">Date: {{post.date | date:'dd/MM/yyyy'}}</div>
+    </div>
 </div>
