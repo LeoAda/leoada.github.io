@@ -1,1 +1,2 @@
 # Inventory and planification
+Range
