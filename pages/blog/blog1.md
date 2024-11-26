@@ -22,7 +22,7 @@ Then, on the same principle, a column with a **score of interest**. Of course, i
 </br>
 For the rest of the article, I will focus on theoretical knowledge and not practical skills that deserve their own article.
 
-## :thinking:Second step: What should you learn?
+## :thinking:Second step: What is the domain ?
 
 >"*There are unknown unknowns*"
 
@@ -41,9 +41,19 @@ For example: Start from LLMs, you will begin with the GPT paper, then you will s
 It's a good way to learn the path that led to the technologies we use today.
 </br>
 
+The importance, for these steps, is to get an overview of the subject.
+
 :information_source: I highly suggest you use **Wikipedia** as a database for your research for both methods because it regularly adds historical and component parts to pages that allow you to go deeper and deeper.
 
+## Third steps : Structure and organize the learning
+
+When you will get 500 different subject to learn about, it can be tremendous to found ways between all of those, so the key word here is : **incremental**. In fact, you with the previous steps you will highlight some foundational topics. Thoses are the kind of topics you will see on a lot of your learning material : It can be statistics, linear algebra, and so on. It's better to begin with those to not accumulate a "knowledge debt" for later. Start to search learning ressources, if I take as exemple statistics, use general books to start. Of course, sort what you already know.
+
+An important aspect is to found a way to take notes, information, organisation. For this aspect, I let you choose your prefered tool like Notion, Obsidian, a notebook. Take time to track you progress, list relevant information for later, and also summarize (More or less like at school)
+
 ## :racing_car:Final step: Begin to learn
+
+
 Maybe the most important step, **you must start to learn**; indeed, the main thing to do is start somewhere and keep moving forward.
 Yes, your map is not perfect. Yes, you hesitate which way is the most time-efficient.
 All of this doesn't matter from the moment you start and don't stop.
@@ -51,3 +61,7 @@ In psychology, the brain doesn't form habits by waiting for the **perfect opport
 </br>
 
 >:pencil2: So go grab a pen and let's get to work !
+
+## After ?
+
+After having black and white pages print on you retina by looking a lot of pages, you may want to get some hands-on. Personnal project is great for that but I will extend on that here but it's worth to mention them.
