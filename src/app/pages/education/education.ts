@@ -1,11 +1,11 @@
 import { Component } from '@angular/core';
 import {MatDividerModule} from '@angular/material/divider';
 @Component({
-  selector: 'app-home',
+  selector: 'app-education',
   imports: [MatDividerModule],
-  templateUrl: './home.html',
-  styleUrl: './home.scss',
+  templateUrl: './education.html',
+  styleUrl: './education.scss',
 })
-export class Home {
+export class Education {
 
 }
