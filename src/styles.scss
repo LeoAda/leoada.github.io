@@ -26,3 +26,47 @@ body {
 .content-container {
     margin : 40px;
 }
+
+.section {
+    margin: 24px 0;
+
+    .header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 8px 16px;
+        margin-bottom: 8px;
+
+        h2 {
+            margin: 0;
+            font: var(--mat-sys-title-large);
+            color: var(--mat-sys-primary);
+        }
+
+        .location {
+            font: var(--mat-sys-title-medium);
+            color: var(--mat-sys-on-surface-variant);
+        }
+
+        .date {
+            margin-left: auto;
+            font: var(--mat-sys-label-large);
+            color: var(--mat-sys-outline);
+        }
+    }
+
+    .description {
+        margin: 0 0 12px;
+        font: var(--mat-sys-body-medium);
+        color: var(--mat-sys-on-surface-variant);
+        font-style: italic;
+    }
+    .item {
+    padding-left: 24px;
+
+        li {
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+    }
+}
