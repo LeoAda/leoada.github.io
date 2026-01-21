@@ -25,5 +25,9 @@ body {
 }
 
 .content-container {
-    margin : 40px;
+  margin: 40px;
+
+  @media (max-width: 600px) {
+    margin: 16px;
+  }
 }
