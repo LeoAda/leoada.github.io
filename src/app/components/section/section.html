@@ -1,0 +1,18 @@
+<section class="section">
+    <div class="header">
+        <h2>{{sectionItem.title}}</h2>
+        <span class="location">{{sectionItem.location}}</span>
+        <span class="date">{{sectionItem.date}}</span>
+    </div>
+    <p class="description">{{sectionItem.description}}</p>
+    <mat-chip-set>
+        @for (tag of sectionItem.tags; track tag) {
+            <mat-chip>{{tag}}</mat-chip>
+        }
+    </mat-chip-set>
+    <ul class="details">
+        @for (detail of sectionItem.details; track detail) {
+            <li>{{detail}}</li>
+        }
+    </ul>
+</section>
