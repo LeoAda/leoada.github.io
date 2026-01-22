@@ -17,7 +17,7 @@ export const educationItem: SectionItem = {
       'Signal Analysis',
       'Metaheuristics',
     ],
-    details: [],
+    details: ``,
   };
 
   export const certificationItem: SectionItem = {
@@ -26,5 +26,5 @@ export const educationItem: SectionItem = {
     date: 'Jun 2021',
     description: '',
     tags: [],
-    details: [],
+    details: ``,
   };

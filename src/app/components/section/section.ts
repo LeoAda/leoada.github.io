@@ -1,5 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { MatChipsModule } from '@angular/material/chips';
+import { MarkdownComponent } from "ngx-markdown";
 
 export class SectionItem {
   title: string = '';
@@ -7,12 +8,12 @@ export class SectionItem {
   date: string = ''
   description: string = '';
   tags: string[] = [];
-  details: string[] = [];
+  details: string = '';
 }
 
 @Component({
   selector: 'app-section',
-  imports: [MatChipsModule],
+  imports: [MatChipsModule, MarkdownComponent],
   templateUrl: './section.html',
   styleUrl: './section.scss',
 })

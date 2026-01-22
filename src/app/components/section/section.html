@@ -10,9 +10,5 @@
             <mat-chip>{{tag}}</mat-chip>
         }
     </mat-chip-set>
-    <ul class="details">
-        @for (detail of sectionItem.details; track detail) {
-            <li>{{detail}}</li>
-        }
-    </ul>
+    <markdown [data]="sectionItem.details"></markdown>
 </section>
