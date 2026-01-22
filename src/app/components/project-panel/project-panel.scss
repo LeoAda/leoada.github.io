@@ -1,0 +1,13 @@
+.mat-expansion-panel-header {
+  @media (max-width: 600px) {
+    padding: 6px; 
+  }
+}
+.mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+
+  mat-icon {
+    flex-shrink: 0;
+  }
+}

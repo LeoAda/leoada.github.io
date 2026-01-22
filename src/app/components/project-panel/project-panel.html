@@ -1,0 +1,11 @@
+<mat-expansion-panel (opened)="panelOpenState.set(true)" (closed)="panelOpenState.set(false)" hideToggle>
+    <mat-expansion-panel-header>
+        <mat-panel-title>{{ project.title }}</mat-panel-title>
+        <mat-panel-description>
+            @if (!panelOpenState()){{{ project.date }}}
+            <div></div>
+            <mat-icon>account_circle</mat-icon>
+        </mat-panel-description>
+    </mat-expansion-panel-header>
+    <app-section [sectionItem]="project"></app-section>
+</mat-expansion-panel>
