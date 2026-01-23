@@ -2,7 +2,7 @@ import { SectionItem } from '../../components/section/section';
 
 export const personnalProjects: SectionItem[] = [{
     title: 'Homelab',
-    location: 'Lille',
+    location: '',
     date: 'Feb 2025 - Present',
     description: 'Personal homelab setup',
     tags: [],
