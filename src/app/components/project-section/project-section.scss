@@ -1,4 +1,7 @@
 .projects-content {
   justify-content: space-between;
-  align-items: center;
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
