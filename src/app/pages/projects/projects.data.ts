@@ -48,28 +48,7 @@ I use :
 
 ## Source code :
 Not yet available for clean up and security reasons.
-`},
-{
-    title: 'DepthDropper',
-    location: '',
-    date: 'Mar 2025',
-    description: 'Web app to estimate depth based on sound delay',
-    tags: [],
-    details: `
-## Description :
-A web apps to estimate depth of a hole based on sound delay, a simple helper for a family member.
-
-## Skills developed :
-- Understanding a problem and finding a simple solution
-- Web development with Angular
-
-## Technologies used :
-![Angular](assets/badges/angular.svg), TypeScript
-
-## Source code :
-- [GitHub Repository](https://github.com/LeoAda/DepthDropper)
-`,
-},{
+`},{
     title: 'Colocatron',
     location: '',
     date: 'Mai 2024',
@@ -88,6 +67,26 @@ I made this project to learn flask and practice web development.
 
 ## Source code :
 - [GitHub Repository](https://github.com/LeoAda/colocatron)
+`,
+},{
+    title: 'DepthDropper',
+    location: '',
+    date: 'Mar 2024',
+    description: 'Web app to estimate depth based on sound delay',
+    tags: [],
+    details: `
+## Description :
+A web apps to estimate depth of a hole based on sound delay, a simple helper for a family member.
+
+## Skills developed :
+- Understanding a problem and finding a simple solution
+- Web development with Angular
+
+## Technologies used :
+![Angular](assets/badges/angular.svg), TypeScript
+
+## Source code :
+- [GitHub Repository](https://github.com/LeoAda/DepthDropper)
 `,
 },{
     title: 'Weather hybrid work',
